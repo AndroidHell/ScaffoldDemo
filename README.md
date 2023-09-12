@@ -2,6 +2,11 @@
 
 Boilerplate scafford work for Android apps
 
+# Screenshots
+
+![Main Screen](https://i.imgur.com/SsnvlhX.png)
+![Fab Full Screen Demo](https://i.imgur.com/Bu4ClfS.png)
+
 # Features
 - a top bar
   - updates the screen title dynamically
